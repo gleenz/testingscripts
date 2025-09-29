@@ -1,0 +1,229 @@
+{
+    "title": "Brainwave all news articles",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1264,
+            "height": 337,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#all"
+                ],
+                [
+                    "xpath///*[@id=\"all\"]"
+                ],
+                [
+                    "pierce/#all"
+                ],
+                [
+                    "text/All news"
+                ]
+            ],
+            "offsetY": 12.177082061767578,
+            "offsetX": 42
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/22 September 2025",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#article-4872 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-4872\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-4872 span"
+                ],
+                [
+                    "text/22 September"
+                ]
+            ],
+            "offsetY": 9.229156494140625,
+            "offsetX": 79
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/16 June 2025",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#article-4822 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-4822\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-4822 span"
+                ],
+                [
+                    "text/16 June 2025"
+                ]
+            ],
+            "offsetY": 10.645828247070312,
+            "offsetX": 44.260406494140625
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#article-4794 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-4794\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-4794 span"
+                ]
+            ],
+            "offsetY": 11.84375,
+            "offsetX": 50.52081298828125
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#article-4790 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-4790\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-4790 span"
+                ]
+            ],
+            "offsetY": 11.229164123535156,
+            "offsetX": 58
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[2]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 13.020828247070312,
+            "offsetX": 22.041656494140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[3]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(3)"
+                ]
+            ],
+            "offsetY": 12.708328247070312,
+            "offsetX": 14.25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[4]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 10.84375,
+            "offsetX": 18.45831298828125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(5)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[5]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(5)"
+                ]
+            ],
+            "offsetY": 12.59375,
+            "offsetX": 7.6666259765625
+        }
+    ]
+}
