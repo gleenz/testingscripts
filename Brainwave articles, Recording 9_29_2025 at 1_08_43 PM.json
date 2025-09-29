@@ -1,0 +1,360 @@
+{
+    "title": "Brainwave articles, Recording 9/29/2025 at 1:08:43 PM",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1264,
+            "height": 358,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[2]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 5.02081298828125,
+            "offsetX": 17.041656494140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[3]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(3)"
+                ]
+            ],
+            "offsetY": 11.70831298828125,
+            "offsetX": 10.25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[4]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 12.84375,
+            "offsetX": 19.45831298828125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(5)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[5]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(5)"
+                ]
+            ],
+            "offsetY": 10.59375,
+            "offsetX": 11.6666259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#adolescents"
+                ],
+                [
+                    "xpath///*[@id=\"adolescents\"]"
+                ],
+                [
+                    "pierce/#adolescents"
+                ]
+            ],
+            "offsetY": 8.177082061767578,
+            "offsetX": 56.541656494140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[2]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 6.1875,
+            "offsetX": 16.5625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.pagination > div:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"filtering\"]/section/div/div[2]/div/div[2]/div[3]"
+                ],
+                [
+                    "pierce/div.pagination > div:nth-of-type(3)"
+                ]
+            ],
+            "offsetY": 8.90625,
+            "offsetX": 15.77081298828125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/14 February 2018",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#article-1617 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-1617\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-1617 span"
+                ],
+                [
+                    "text/14 February 2018"
+                ]
+            ],
+            "offsetY": 10.03125,
+            "offsetX": 98,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/article/teenagers-its-not-just-their-hormones-its-their-brain/",
+                    "title": "Teenagers: it’s not just their hormones – it’s their brain! - Brainwave Trust Aotearoa"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/DOWNLOAD"
+                ],
+                [
+                    "main > div a"
+                ],
+                [
+                    "xpath//html/body/main/div/section/div/div[1]/div[1]/a"
+                ],
+                [
+                    "pierce/main > div a"
+                ],
+                [
+                    "text/Download"
+                ]
+            ],
+            "offsetY": 18.395828247070312,
+            "offsetX": 71
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/16 June 2025",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "#article-4822 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-4822\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-4822 span"
+                ],
+                [
+                    "text/16 June 2025"
+                ]
+            ],
+            "offsetY": 7.6458282470703125,
+            "offsetX": 50.260406494140625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/article/ahakoa-he-iti-he-pounamu-a-precious-time-for-our-tiniest-treasures/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "main > div div:nth-of-type(1) > a"
+                ],
+                [
+                    "xpath//html/body/main/div/section/div/div[1]/div[1]/a"
+                ],
+                [
+                    "pierce/main > div div:nth-of-type(1) > a"
+                ]
+            ],
+            "offsetY": 13.038848876953125,
+            "offsetX": 69.40985107421875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) > a"
+                ],
+                [
+                    "xpath//html/body/main/div/section/div/div[1]/div[3]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > a"
+                ]
+            ],
+            "offsetY": 21.471221923828125,
+            "offsetX": 47.95368957519531
+        },
+        {
+            "type": "navigate",
+            "url": "https://brainwave.org.nz/research/articles/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/research/articles/",
+                    "title": "Articles Supporting Child Development Stages - Brainwave Trust"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#article-4794 span"
+                ],
+                [
+                    "xpath///*[@id=\"article-4794\"]/a[2]/span"
+                ],
+                [
+                    "pierce/#article-4794 span"
+                ]
+            ],
+            "offsetY": 1.84375,
+            "offsetX": 76.52081298828125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://brainwave.org.nz/article/whanaungatanga-and-identity-strengthening-wellbeing-for-taiohi-maori/",
+                    "title": "Brainwave Trust Aotearoa - Brainwave Trust Aotearoa"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "main > div div:nth-of-type(1) > a"
+                ],
+                [
+                    "xpath//html/body/main/div/section/div/div[1]/div[1]/a"
+                ],
+                [
+                    "pierce/main > div div:nth-of-type(1) > a"
+                ]
+            ],
+            "offsetY": 7.57611083984375,
+            "offsetX": 53.74992370605469
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "main div:nth-of-type(2) > a"
+                ],
+                [
+                    "xpath//html/body/main/div/section/div/div[1]/div[2]/a"
+                ],
+                [
+                    "pierce/main div:nth-of-type(2) > a"
+                ]
+            ],
+            "offsetY": 17.378921508789062,
+            "offsetX": 67.75254821777344
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) > a"
+                ],
+                [
+                    "xpath//html/body/main/div/section/div/div[1]/div[3]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > a"
+                ]
+            ],
+            "offsetY": 18.203689575195312,
+            "offsetX": 88.24671936035156
+        }
+    ]
+}
