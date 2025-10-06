@@ -1,0 +1,162 @@
+{
+    "title": "Seasonsmagazine3",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1920,
+            "height": 664,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://online.fliphtml5.com/rrkrj/nwyz/#p=1",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://online.fliphtml5.com/rrkrj/nwyz/#p=1",
+                    "title": "Seasons Mag OCT 2025_final"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#pageMask1 div.side-content > div"
+                ],
+                [
+                    "xpath///*[@id=\"#p=1\"]/div[1]/div"
+                ],
+                [
+                    "pierce/#pageMask1 div.side-content > div"
+                ]
+            ],
+            "offsetY": 81,
+            "offsetX": 80.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 17
+        }
+    ]
+}
