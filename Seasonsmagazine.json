@@ -1,0 +1,122 @@
+{
+    "title": "Seasonsmagazine",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1920,
+            "height": 664,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://online.fliphtml5.com/rrkrj/nwyz/#p=1",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://online.fliphtml5.com/rrkrj/nwyz/#p=1",
+                    "title": "Seasons Mag OCT 2025_final"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(8) div.side-content > div"
+                ],
+                [
+                    "xpath///*[@id=\"page1\"]/div[1]/div"
+                ],
+                [
+                    "pierce/div:nth-of-type(8) div.side-content > div"
+                ]
+            ],
+            "offsetY": 212,
+            "offsetX": 145.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 18,
+            "offsetX": 21
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 18,
+            "offsetX": 21
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 18,
+            "offsetX": 21
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 18,
+            "offsetX": 21
+        }
+    ]
+}
