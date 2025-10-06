@@ -1,0 +1,112 @@
+{
+    "title": "Seasonsmagazine2",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1920,
+            "height": 833,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },        
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#pageMask1 div.side-content > div"
+                ],
+                [
+                    "xpath///*[@id=\"page1\"]/div[1]/div"
+                ],
+                [
+                    "pierce/#pageMask1 div.side-content > div"
+                ]
+            ],
+            "offsetY": 273,
+            "offsetX": 314.5,
+            "duration": 458.2999999988824
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13.5,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13.5,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13.5,
+            "offsetX": 17
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rightButton"
+                ],
+                [
+                    "div.flip_button_right > img"
+                ],
+                [
+                    "xpath///*[@id=\"tmpContainer\"]/div[26]/img"
+                ],
+                [
+                    "pierce/div.flip_button_right > img"
+                ]
+            ],
+            "offsetY": 13.5,
+            "offsetX": 17
+        }
+    ]
+}
