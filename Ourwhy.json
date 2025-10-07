@@ -1,0 +1,255 @@
+{
+    "title": "Ourwhy",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1905,
+            "height": 388,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.reomaori.co.nz/our-why",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.reomaori.co.nz/our-why",
+                    "title": "Te Pae Kōrero | Our Whys - Te Rangaihi Reo Māori"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/To honour my tipuna, to teach my mokopuna to ensure our history is never lost again, for myself as I journey towards receiving my moko kaue."
+                ],
+                [
+                    "div.bg-red h3"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div/div[2]/div[2]/div[1]/div/div[1]/a/div/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/div.bg-red h3"
+                ]
+            ],
+            "offsetY": 79.484375,
+            "offsetX": 122
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "xpath///*[@id=\"postModal\"]/div/div/div/div/div[2]/div/div[4]/div[1]/div/div[2]/a/div/span"
+                ],
+                [
+                    "pierce/div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "text/See post"
+                ]
+            ],
+            "offsetY": 10.453125,
+            "offsetX": 15.8125
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.reomaori.co.nz/our-why",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.reomaori.co.nz/our-why",
+                    "title": "Te Pae Kōrero | Our Whys - Te Rangaihi Reo Māori"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Since the age of 8 I have been surrounded by our culture, however I could never fully grasp our language. This is my time to stop sitting on the sidelines and do the things that are important to me, and learning our language is high on the list."
+                ],
+                [
+                    "div.bg-pink h3"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div/div[2]/div[2]/div[1]/div/div[2]/a/div/div/div/h3"
+                ],
+                [
+                    "pierce/div.bg-pink h3"
+                ]
+            ],
+            "offsetY": 91.484375,
+            "offsetX": 215
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "xpath///*[@id=\"postModal\"]/div/div/div/div/div[2]/div/div[4]/div[1]/div/div[2]/a/div/span"
+                ],
+                [
+                    "pierce/div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "text/See post"
+                ]
+            ],
+            "offsetY": 3.453125,
+            "offsetX": 34.796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.reomaori.co.nz/our-why",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.reomaori.co.nz/our-why",
+                    "title": "Te Pae Kōrero | Our Whys - Te Rangaihi Reo Māori"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Te Reo Maori is a huge part of my cultural identity and my heritage to claim! The Te Reo journey may include Whakapapa, karakia, waiata, whakatauaki, hononga. It may incite a sense of belonging and being proud. In our Reo is beauty and playful witty humour My journey is set to honour our tupuna"
+                ],
+                [
+                    "div.bg-orange h3"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div/div[2]/div[2]/div[1]/div/div[3]/a/div/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/div.bg-orange h3"
+                ]
+            ],
+            "offsetY": 89.484375,
+            "offsetX": 214
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "xpath///*[@id=\"postModal\"]/div/div/div/div/div[2]/div/div[4]/div[1]/div/div[2]/a/div/span"
+                ],
+                [
+                    "pierce/div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "text/See post"
+                ]
+            ],
+            "offsetY": 9.453125,
+            "offsetX": 21.8125
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.reomaori.co.nz/our-why",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.reomaori.co.nz/our-why",
+                    "title": "Te Pae Kōrero | Our Whys - Te Rangaihi Reo Māori"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/My biggest regret is not knowing my own beautiful language. It was always present when i was growing up especially with our nanny but when we got our own home, mum & dad never taught us & when i took it up at high school the teacher was from the east coast so imagine a ngapuhi/ tainui going home & speaking eastcoast maori back in those days. I can laugh about it now but boy those days of getting my ears screwed were bloody sore."
+                ],
+                [
+                    "div.bg-yellow h3"
+                ],
+                [
+                    "xpath///*[@id=\"main\"]/div/div[2]/div[2]/div[1]/div/div[4]/a/div/div/div[1]/div/h3"
+                ],
+                [
+                    "pierce/div.bg-yellow h3"
+                ]
+            ],
+            "offsetY": 82.484375,
+            "offsetX": 190
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "xpath///*[@id=\"postModal\"]/div/div/div/div/div[2]/div/div[4]/div[1]/div/div[2]/a/div/span"
+                ],
+                [
+                    "pierce/div.w-100 > div > div:nth-of-type(2) span"
+                ],
+                [
+                    "text/See post"
+                ]
+            ],
+            "offsetY": 5.453125,
+            "offsetX": 16.8125,
+            "assertedEvents": [
+                {
+                    "type": "navigation"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/See post",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "#main div.row img"
+                ],
+                [
+                    "xpath///*[@id=\"postModal\"]/div/div/div/div/div[2]/div/div[4]/div[1]/div/div[2]/a/div/img"
+                ],
+                [
+                    "pierce/#main div.row img"
+                ]
+            ],
+            "offsetY": 7,
+            "offsetX": 8
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.reomaori.co.nz/our-why",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.reomaori.co.nz/our-why",
+                    "title": "Te Pae Kōrero | Our Whys - Te Rangaihi Reo Māori"
+                }
+            ]
+        }
+    ]
+}
