@@ -1,0 +1,205 @@
+{
+    "title": "Tamaki",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1264,
+            "height": 322,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://tamakiregeneration.co.nz/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://tamakiregeneration.co.nz/",
+                    "title": "Home | Tamaki Regeneration"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.navbar > div.menu-right span"
+                ],
+                [
+                    "xpath///*[@id=\"current-language\"]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right span"
+                ]
+            ],
+            "offsetY": 8.666666507720947,
+            "offsetX": 20.6666259765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/Te reo Māori"
+                ],
+                [
+                    "div.navbar > div.menu-right div.language-banner a:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"languages-dropdown\"]/div/a[2]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right div.language-banner a:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 64,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://tamakiregeneration.co.nz/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.navbar > div.menu-right span"
+                ],
+                [
+                    "xpath///*[@id=\"current-language\"]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right span"
+                ]
+            ],
+            "offsetY": 1.3333330154418945,
+            "offsetX": 28.3853759765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/Lea Faka Tonga"
+                ],
+                [
+                    "div.navbar > div.menu-right a:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"languages-dropdown\"]/div/a[3]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right a:nth-of-type(3)"
+                ]
+            ],
+            "offsetY": 15.333328247070312,
+            "offsetX": 73,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://tamakiregeneration.co.nz/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.navbar > div.menu-right div.language-banner > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"languages-dropdown\"]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right div.language-banner > div > div"
+                ]
+            ],
+            "offsetY": 18,
+            "offsetX": 85.3853759765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/Vagahau Niue"
+                ],
+                [
+                    "div.navbar > div.menu-right a:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"languages-dropdown\"]/div/a[4]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right a:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 15.333328247070312,
+            "offsetX": 64,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://tamakiregeneration.co.nz/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.navbar > div.menu-right div.language-banner > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"languages-dropdown\"]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right div.language-banner > div > div"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 89.3853759765625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/Burmese"
+                ],
+                [
+                    "div.navbar > div.menu-right a:nth-of-type(5)"
+                ],
+                [
+                    "xpath///*[@id=\"languages-dropdown\"]/div/a[5]"
+                ],
+                [
+                    "pierce/div.navbar > div.menu-right a:nth-of-type(5)"
+                ]
+            ],
+            "offsetY": 17.333328247070312,
+            "offsetX": 70,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://tamakiregeneration.co.nz/",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
